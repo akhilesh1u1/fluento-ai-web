@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "[MAG] Fluento AI - Your Personal English Tutor",
+    "description": "[MAG] Master English speaking with AI conversations, real-time feedback, and daily challenges. Join the waitlist today."
+  },
+  "navbar": {
+    "brand": "[MAG] Fluento AI",
+    "joinWaitlist": "[MAG] Join Waitlist"
+  },
+  "hero": {
+    "badge": "[MAG] Early Access Launching Soon",
+    "title": "[MAG] Speak English Confidently",
+    "titleHighlight": "[MAG] Anytime, Anywhere",
+    "description": "[MAG] Master English speaking with AI-powered conversations, real-time feedback, and daily challenges. Your personal language tutor in your pocket.",
+    "joinWaitlistBtn": "[MAG] Join the Waitlist"
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything you need to become fluent",
+    "description": "Our comprehensive suite of tools ensures you get the practice and feedback required to speak English confidently.",
+    "items": {
+      "f1_title": "AI Voice Conversations",
+      "f1_desc": "Engage in natural, spoken conversations with an AI that understands context and nuance.",
+      "f2_title": "Pronunciation Improvement",
+      "f2_desc": "Get real-time feedback on your accent and pronunciation down to the phoneme level.",
+      "f3_title": "Grammar Correction",
+      "f3_desc": "Learn from your mistakes with gentle, contextual grammar corrections during your chats.",
+      "f4_title": "Daily Speaking Challenges",
+      "f4_desc": "Build a habit with bite-sized daily challenges designed to expand your vocabulary.",
+      "f5_title": "Personalized Learning Path",
+      "f5_desc": "The AI adapts to your proficiency level and focuses on the areas where you need the most help."
+    }
+  },
+  "waitlist": {
+    "title": "[MAG] Ready to speak fluently?",
+    "description": "[MAG] Join the waitlist today to secure your early access spot and lock in exclusive launch pricing.",
+    "namePlaceholder": "[MAG] Your name",
+    "emailPlaceholder": "[MAG] Your email address",
+    "joiningBtn": "[MAG] Joining...",
+    "joinBtn": "[MAG] Join the Waitlist",
+    "successTitle": "[MAG] You're on the list!",
+    "successDesc": "[MAG] Keep an eye on your inbox. We'll notify you as soon as your spot is ready.",
+    "errorGeneric": "[MAG] Something went wrong. Please try again."
+  },
+  "founder": {
+    "role": "Founder, Fluento AI",
+    "connect": "Connect on LinkedIn",
+    "visionTitle": "Our Vision",
+    "missionTitle": "Our Mission",
+    "thoughtsTitle": "Founder's Thoughts",
+    "visionP1": "At Fluento AI, we envision a future where language is never a barrier to learning, communication, or opportunity.",
+    "visionP2": "India is home to hundreds of languages and diverse cultures. We believe every learner should be able to start their learning journey in the language they are most comfortable with and gradually build confidence in English and other global communication skills.",
+    "visionP3": "Our vision is to create India's most inclusive AI-powered learning platform, supporting learners across multiple Indian languages while helping them connect with a world of opportunities.",
+    "missionP1": "Our mission is to provide personalized AI-driven learning experiences that adapt to each learner's language, pace, and goals.",
+    "missionP2": "Through intelligent conversations, speaking practice, grammar improvement, vocabulary building, and progress tracking, Fluento AI aims to make learning accessible to students from every corner of India.",
+    "missionP3": "We are committed to building a platform that respects linguistic diversity while empowering learners to communicate confidently in a connected world.",
+    "thoughtsP1": "India's strength lies in its diversity. Millions of talented students have great ideas and abilities, but language barriers often limit their confidence and opportunities.",
+    "thoughtsP2": "Fluento AI was created with a simple belief: learning should begin in the language people understand best.",
+    "thoughtsP3": "Our goal is not only to teach English but also to build a bridge between local languages and global opportunities. Whether a learner speaks Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Punjabi, Kannada, Malayalam, Odia, Assamese, or any other Indian language, they should feel welcomed and supported.",
+    "thoughtsP4": "Technology should adapt to people, not force people to adapt to technology.",
+    "thoughtsP5": "That is the future we are building with Fluento AI."
+  },
+  "footer": {
+    "copyright": "© 2026 Fluento AI. All rights reserved.",
+    "description": "Your personal AI English tutor, available 24/7 to help you speak with confidence.",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "supportedLanguages": "Supported Languages"
+  },
+  "howItWorks": {
+    "title": "How Fluento AI works",
+    "description": "A simple, effective process designed to get you speaking from day one.",
+    "steps": {
+      "s1_title": "Speak with AI",
+      "s1_desc": "Start a conversation on any topic. The AI listens and responds naturally, just like a human tutor.",
+      "s2_title": "Get Instant Feedback",
+      "s2_desc": "Receive immediate corrections on your pronunciation, grammar, and vocabulary usage after every exchange.",
+      "s3_title": "Improve Every Day",
+      "s3_desc": "Track your progress over time and watch your fluency score increase as you build a daily habit."
+    }
+  },
+  "appPreview": {
+    "title": "Experience the future of language learning",
+    "description": "Fluento AI wraps advanced language models into an intuitive, beautiful interface that makes daily practice feel like a chat with a friend.",
+    "bullet1": "Sleek, distraction-free design",
+    "bullet2": "Dark mode optimized for late-night sessions",
+    "bullet3": "Fluid animations and real-time voice waveforms",
+    "phone": {
+      "header": "Fluento AI Coach",
+      "status": "Online",
+      "msg1": "Hi! Ready for today's English practice? Let's talk about your weekend.",
+      "msg2": "Yes! I went to the park and read a book.",
+      "msg3": "That sounds lovely! Small tip: you could say \"I went to the park and read a book.\" The pronunciation of \"read\" in past tense is like the color \"red.\"",
+      "inputPlaceholder": "Type a message...",
+      "scoreTitle": "Fluency Score",
+      "scoreValue": "+15 pts today"
+    }
+  },
+  "roadmap": {
+    "title": "The Journey Ahead",
+    "description": "We are working hard to bring Fluento AI to everyone. Here is our plan.",
+    "beta": "Beta Release",
+    "betaDesc": "Early access for waitlist members to test core conversational features.",
+    "android": "Android Launch",
+    "androidBadge": "Up Next",
+    "androidDesc": "Official release on the Google Play Store with full speaking challenges.",
+    "ios": "iOS Launch",
+    "iosDesc": "Coming to the App Store with seamless Apple ecosystem integration.",
+    "advanced": "Advanced AI Features",
+    "advancedDesc": "Real-time accent adjustment, specialized vocabulary packs, and more."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Got questions? We've got answers.",
+    "q1": "Is Fluento AI free?",
+    "a1": "The core conversational features will have a free tier. We will also offer a premium plan for advanced features and unlimited speaking time.",
+    "q2": "When will it launch?",
+    "a2": "We are currently in beta testing. Join the waitlist to get early access!",
+    "q3": "Which languages are supported?",
+    "a3": "Fluento AI focuses on teaching English, but you can converse and receive explanations in Hindi, Bengali, Marathi, Bhojpuri, and many other regional Indian languages."
+  }
+}
