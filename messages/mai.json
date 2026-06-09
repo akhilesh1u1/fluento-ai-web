@@ -1,123 +1,122 @@
 {
   "metadata": {
-    "title": "[MAI] Fluento AI - Your Personal English Tutor",
-    "description": "[MAI] Master English speaking with AI conversations, real-time feedback, and daily challenges. Join the waitlist today."
+    "title": "Fluento AI - अहाँक अपन अंग्रेजी ट्यूटर",
+    "description": "AI गपशप, रियल-टाइम फीडबैक आ दैनिक चुनौतीक संग अंग्रेजी बाजब सीखू। आजुक दिन प्रतीक्षा सूची मे शामिल होउ।"
   },
   "navbar": {
-    "brand": "[MAI] Fluento AI",
-    "joinWaitlist": "[MAI] Join Waitlist"
+    "brand": "Fluento AI",
+    "joinWaitlist": "प्रतीक्षा सूची मे शामिल होउ"
   },
   "hero": {
-    "badge": "[MAI] Early Access Launching Soon",
-    "title": "[MAI] Speak English Confidently",
-    "titleHighlight": "[MAI] Anytime, Anywhere",
-    "description": "[MAI] Master English speaking with AI-powered conversations, real-time feedback, and daily challenges. Your personal language tutor in your pocket.",
-    "joinWaitlistBtn": "[MAI] Join the Waitlist"
+    "badge": "अर्ली एक्सेस जल्द आबि रहल अछि",
+    "title": "आत्मविश्वासक संग अंग्रेजी बाजु",
+    "titleHighlight": "कहियो, कतौ",
+    "description": "AI-संचालित गपशप, रियल-टाइम फीडबैक आ दैनिक चुनौतीक संग अंग्रेजी बाजै मे निपुण बनू। अहाँक व्यक्तिगत भाषा ट्यूटर અहाँक जेबी मे।",
+    "joinWaitlistBtn": "प्रतीक्षा सूची मे शामिल होउ"
   },
   "features": {
-    "badge": "Features",
-    "title": "Everything you need to become fluent",
-    "description": "Our comprehensive suite of tools ensures you get the practice and feedback required to speak English confidently.",
+    "badge": "विशेषता",
+    "title": "फर्राटेदार बाजब लेल जे किछु चाही, ओ सब अछि",
+    "description": "हमर टूलक व्यापक सूट ई सुनिश्चित करैत अछि जे अहाँकें आत्मविश्वासक संग अंग्रेजी बाजब लेल आवश्यक अभ्यास आ फीडबैक भेटय।",
     "items": {
-      "f1_title": "AI Voice Conversations",
-      "f1_desc": "Engage in natural, spoken conversations with an AI that understands context and nuance.",
-      "f2_title": "Pronunciation Improvement",
-      "f2_desc": "Get real-time feedback on your accent and pronunciation down to the phoneme level.",
-      "f3_title": "Grammar Correction",
-      "f3_desc": "Learn from your mistakes with gentle, contextual grammar corrections during your chats.",
-      "f4_title": "Daily Speaking Challenges",
-      "f4_desc": "Build a habit with bite-sized daily challenges designed to expand your vocabulary.",
-      "f5_title": "Personalized Learning Path",
-      "f5_desc": "The AI adapts to your proficiency level and focuses on the areas where you need the most help."
+      "f1_title": "AI वॉयस गपशप",
+      "f1_desc": "संदर्भ आ बारीकी बुझय वाला AI क संग प्राकृतिक, गपशप करू।",
+      "f2_title": "उच्चारण मे सुधार",
+      "f2_desc": "ध्वनि (phoneme) स्तर धरि अपन लहजा आ उच्चारण पर रियल-टाइम फीडबैक प्राप्त करू।",
+      "f3_title": "व्याकरण सुधार",
+      "f3_desc": "गपशपक दौरान नम्र, प्रासंगिक व्याकरण सुधारक संग अपन गल्ती सँ सीखू।",
+      "f4_title": "दैनिक स्पीकिंग चुनौती",
+      "f4_desc": "अपन शब्दकोश बढ़ाबय लेल बनाएल गेल छोट-छोट दैनिक चुनौतीक संग एकटा आदत बनाउ।",
+      "f5_title": "व्यक्तिगत लर्निंग पाथ",
+      "f5_desc": "AI अहाँक दक्षताक स्तरक अनुकूल भ जाइत अछि आ ओहि क्षेत्र पर ध्यान केंद्रित करैत अछि जतय अहाँकें सबसँ बेसी मददक आवश्यकता अछि।"
     }
   },
   "waitlist": {
-    "title": "[MAI] Ready to speak fluently?",
-    "description": "[MAI] Join the waitlist today to secure your early access spot and lock in exclusive launch pricing.",
-    "namePlaceholder": "[MAI] Your name",
-    "emailPlaceholder": "[MAI] Your email address",
-    "joiningBtn": "[MAI] Joining...",
-    "joinBtn": "[MAI] Join the Waitlist",
-    "successTitle": "[MAI] You're on the list!",
-    "successDesc": "[MAI] Keep an eye on your inbox. We'll notify you as soon as your spot is ready.",
-    "errorGeneric": "[MAI] Something went wrong. Please try again."
+    "title": "की अहाँ फर्राटेदार बाजब लेल तैयार छी?",
+    "description": "अपन अर्ली एक्सेस स्थान सुरक्षित करबाक लेल आ विशेष लॉन्च दाम पक्का करबाक लेल आइ प्रतीक्षा सूची मे शामिल होउ।",
+    "namePlaceholder": "अहाँक नाम",
+    "emailPlaceholder": "अहाँक ईमेल",
+    "joiningBtn": "जुड़ि रहल छी...",
+    "joinBtn": "प्रतीक्षा सूची मे शामिल होउ",
+    "successTitle": "अहाँ सूची मे छी!",
+    "successDesc": "अपन इनबॉक्स पर नजरि राखू। जहिना अहाँक जगह तैयार होएत, हम सूचित करब।",
+    "errorGeneric": "किछु गड़बड़ भेल। कृपया फेर सं प्रयास करू।"
   },
   "founder": {
-    "role": "Founder, Fluento AI",
-    "connect": "Connect on LinkedIn",
-    "visionTitle": "Our Vision",
-    "missionTitle": "Our Mission",
-    "thoughtsTitle": "Founder's Thoughts",
-    "visionP1": "At Fluento AI, we envision a future where language is never a barrier to learning, communication, or opportunity.",
-    "visionP2": "India is home to hundreds of languages and diverse cultures. We believe every learner should be able to start their learning journey in the language they are most comfortable with and gradually build confidence in English and other global communication skills.",
-    "visionP3": "Our vision is to create India's most inclusive AI-powered learning platform, supporting learners across multiple Indian languages while helping them connect with a world of opportunities.",
-    "missionP1": "Our mission is to provide personalized AI-driven learning experiences that adapt to each learner's language, pace, and goals.",
-    "missionP2": "Through intelligent conversations, speaking practice, grammar improvement, vocabulary building, and progress tracking, Fluento AI aims to make learning accessible to students from every corner of India.",
-    "missionP3": "We are committed to building a platform that respects linguistic diversity while empowering learners to communicate confidently in a connected world.",
-    "thoughtsP1": "India's strength lies in its diversity. Millions of talented students have great ideas and abilities, but language barriers often limit their confidence and opportunities.",
-    "thoughtsP2": "Fluento AI was created with a simple belief: learning should begin in the language people understand best.",
-    "thoughtsP3": "Our goal is not only to teach English but also to build a bridge between local languages and global opportunities. Whether a learner speaks Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Punjabi, Kannada, Malayalam, Odia, Assamese, or any other Indian language, they should feel welcomed and supported.",
-    "thoughtsP4": "Technology should adapt to people, not force people to adapt to technology.",
-    "thoughtsP5": "That is the future we are building with Fluento AI."
+    "role": "संस्थापक, Fluento AI",
+    "connect": "लिंक्डइन पर जुड़ू",
+    "visionTitle": "हमर दृष्टिकोण",
+    "missionTitle": "हमर मिशन",
+    "thoughtsTitle": "संस्थापकक विचार",
+    "visionP1": "Fluento AI मे, हम एकटा एहन भविष्यक कल्पना करैत छी जतय भाषा कहियो सीखब, संचार या अवसर मे बाधा नहि बनय।",
+    "visionP2": "भारत सयौं भाषा आ विविध संस्कृतिक घर अछि। हमर मानना अछि जे हर विद्यार्थी कें अपन सबसँ आरामदायक भाषा मे सीखबाक यात्रा शुरू करबाक अवसर भेटबाक चाही आ धीरे-धीरे अंग्रेजी आ अन्य वैश्विक संचार कौशल मे आत्मविश्वास पैदा करबाक चाही।",
+    "visionP3": "हमर दृष्टिकोण भारतक सबसँ समावेशी AI-संचालित शिक्षण मंच बनेबाक अछि, जे अनेकौं भारतीय भाषा मे विद्यार्थी सभकें समर्थन करैत अछि आ हुनका अवसरक दुनिया सँ जुड़ै मे मदद करैत अछि।",
+    "missionP1": "हमर मिशन व्यक्तिगत AI-संचालित शिक्षण अनुभव प्रदान करब अछि जे प्रत्येक विद्यार्थीक भाषा, गति आ लक्ष्यक अनुकूल हो।",
+    "missionP2": "बुद्धिमान गपशप, बाजब अभ्यास, व्याकरण सुधार, शब्दावली निर्माण आ प्रगति ट्रैकिंगक माध्यम सँ, Fluento AI क उद्देश्य भारतक हर कोना सँ छात्रक लेल सीखब सुलभ बनेबाक अछि।",
+    "missionP3": "हम एकटा एहन मंच बनेबाक लेल प्रतिबद्ध छी जे भाषाई विविधताक सम्मान करैत अछि आ विद्यार्थी सभकें एकटा जुड़ल दुनिया मे आत्मविश्वासक संग संवाद करबाक लेल सशक्त बनबैत अछि।",
+    "thoughtsP1": "भारतक असली ताकत एकर विविधता मे निहित अछि। लाखौं मेधावी छात्रक लग महान विचार आ क्षमता अछि, मुदा भाषाक बाधा अक्सर हुनक आत्मविश्वास आ अवसरकें सीमित कए दैत अछि।",
+    "thoughtsP2": "Fluento AI एकटा साधारण विश्वासक संग बनाएल गेल छल: सीखब ओहि भाषा मे शुरू हेबाक चाही जेकरा लोक सबसँ नीक सँ बुझैत छथि।",
+    "thoughtsP3": "हमर लक्ष्य केवल अंग्रेजी सिखायब नहि अछि बल्कि स्थानीय भाषा आ वैश्विक अवसरक बीच एकटा पुल बनेबाक अछि। चाहे कोनो विद्यार्थी हिंदी, बंगाली, तमिल, तेलुगु, मराठी, गुजराती, पंजाबी, कन्नड़, मलयालम, उड़िया, असमिया या कोनो अन्य भारतीय भाषा बजैत होथि, हुनका स्वागत आ समर्थित महसूस हेबाक चाही।",
+    "thoughtsP4": "प्रौद्योगिकी कें लोकक अनुकूल हेबाक चाही, लोककें प्रौद्योगिकीक अनुकूल हेबाक लेल मजबूर नहि करबाक चाही।",
+    "thoughtsP5": "यैह ओ भविष्य अछि जे हम Fluento AI क संग निर्माण कए रहल छी।"
   },
   "footer": {
-    "copyright": "© 2026 Fluento AI. All rights reserved.",
-    "description": "Your personal AI English tutor, available 24/7 to help you speak with confidence.",
-    "contact": "Contact",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "supportedLanguages": "Supported Languages"
+    "copyright": "© 2026 Fluento AI. सर्वाधिकार सुरक्षित।",
+    "description": "अहाँक व्यक्तिगत AI अंग्रेजी ट्यूटर, जे अहाँकें आत्मविश्वासक संग बाजब मे मदद करबाक लेल 24/7 उपलब्ध अछि।",
+    "contact": "संपर्क करू",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवाक शर्त"
   },
   "howItWorks": {
-    "title": "How Fluento AI works",
-    "description": "A simple, effective process designed to get you speaking from day one.",
+    "title": "Fluento AI कोना काज करैत अछि",
+    "description": "एकटा आसान आ प्रभावी प्रक्रिया जे अहाँकें पहिल दिन सँ बाजब शुरू करबाक लेल डिजाइन कएल गेल अछि।",
     "steps": {
-      "s1_title": "Speak with AI",
-      "s1_desc": "Start a conversation on any topic. The AI listens and responds naturally, just like a human tutor.",
-      "s2_title": "Get Instant Feedback",
-      "s2_desc": "Receive immediate corrections on your pronunciation, grammar, and vocabulary usage after every exchange.",
-      "s3_title": "Improve Every Day",
-      "s3_desc": "Track your progress over time and watch your fluency score increase as you build a daily habit."
+      "s1_title": "AI क संग बाजु",
+      "s1_desc": "कोनो विषय पर गपशप शुरू करू। AI प्राकृतिक रूप सँ सुनैत अछि आ प्रतिक्रिया दैत अछि, बिल्कुल एकटा मानव ट्यूटर जकाँ।",
+      "s2_title": "तुरंत फीडबैक प्राप्त करू",
+      "s2_desc": "हर गपशपक बाद अपन उच्चारण, व्याकरण आ शब्दावलीक उपयोग पर तत्काल सुधार प्राप्त करू।",
+      "s3_title": "हर दिन सुधार करू",
+      "s3_desc": "समय क संग अपन प्रगति कें ट्रैक करू आ दैनिक आदत बनेबाक संग-संग अपन फ्लुएंसी स्कोर कें बढ़ैत देखू।"
     }
   },
   "appPreview": {
-    "title": "Experience the future of language learning",
-    "description": "Fluento AI wraps advanced language models into an intuitive, beautiful interface that makes daily practice feel like a chat with a friend.",
-    "bullet1": "Sleek, distraction-free design",
-    "bullet2": "Dark mode optimized for late-night sessions",
-    "bullet3": "Fluid animations and real-time voice waveforms",
+    "title": "भाषा सीखबाक भविष्यक अनुभव करू",
+    "description": "Fluento AI उन्नत भाषा मॉडल कें एकटा सहज, सुंदर इंटरफ़ेस मे समेटैत अछि जे दैनिक अभ्यास कें कोनो मित्रक संग गपशप जकाँ महसूस करबैत अछि।",
+    "bullet1": "आकर्षक, व्याकुलता-मुक्त डिज़ाइन",
+    "bullet2": "देर रातिक सत्रक लेल अनुकूलित डार्क मोड",
+    "bullet3": "तरल एनिमेशन आ रियल-टाइम वॉयस वेवफॉर्म",
     "phone": {
-      "header": "Fluento AI Coach",
-      "status": "Online",
-      "msg1": "Hi! Ready for today's English practice? Let's talk about your weekend.",
-      "msg2": "Yes! I went to the park and read a book.",
-      "msg3": "That sounds lovely! Small tip: you could say \"I went to the park and read a book.\" The pronunciation of \"read\" in past tense is like the color \"red.\"",
-      "inputPlaceholder": "Type a message...",
-      "scoreTitle": "Fluency Score",
-      "scoreValue": "+15 pts today"
+      "header": "Fluento AI कोच",
+      "status": "ऑनलाइन",
+      "msg1": "नमस्ते! आजुक अंग्रेजी अभ्यासक लेल तैयार छी? आउ अहाँक सप्ताहांत (weekend) क विषय मे गप करैत छी।",
+      "msg2": "हँ! हम पार्क गेल छलहुँ आ एकटा किताब पढ़लहुँ।",
+      "msg3": "ई त बहुत नीक लागल! छोट सन टिप: अहाँ कहि सकैत छी \"I went to the park and read a book.\" बीतल समय (past tense) मे \"read\" क उच्चारण \"red\" रंग जकाँ होइत अछि।",
+      "inputPlaceholder": "एकटा संदेश टाइप करू...",
+      "scoreTitle": "फ्लुएंसी स्कोर",
+      "scoreValue": "आज +15 अंक"
     }
   },
   "roadmap": {
-    "title": "The Journey Ahead",
-    "description": "We are working hard to bring Fluento AI to everyone. Here is our plan.",
-    "beta": "Beta Release",
-    "betaDesc": "Early access for waitlist members to test core conversational features.",
-    "android": "Android Launch",
-    "androidBadge": "Up Next",
-    "androidDesc": "Official release on the Google Play Store with full speaking challenges.",
-    "ios": "iOS Launch",
-    "iosDesc": "Coming to the App Store with seamless Apple ecosystem integration.",
-    "advanced": "Advanced AI Features",
-    "advancedDesc": "Real-time accent adjustment, specialized vocabulary packs, and more."
+    "title": "आगुक यात्रा",
+    "description": "हम Fluento AI कें सब धरि पहुँचाबय लेल कड़ा मेहनत कए रहल छी। एतय हमर योजना अछि।",
+    "beta": "बीटा रिलीज़",
+    "betaDesc": "वेटलिस्ट सदस्यक लेल मुख्य संवादी सुविधाक परीक्षण करबाक लेल अर्ली एक्सेस।",
+    "android": "Android लॉन्च",
+    "androidBadge": "अगला कदम",
+    "androidDesc": "पूर्ण स्पीकिंग चुनौतीक संग Google Play Store पर आधिकारिक रिलीज़।",
+    "ios": "iOS लॉन्च",
+    "iosDesc": "निर्बाध Apple इकोसिस्टम एकीकरणक संग App Store पर आबि रहल अछि।",
+    "advanced": "उन्नत AI सुविधा",
+    "advancedDesc": "रियल-टाइम एक्सेंट एडजस्टमेंट, विशेष शब्दावली पैक, आ बहुत किछु।"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
-    "description": "Got questions? We've got answers.",
-    "q1": "Is Fluento AI free?",
-    "a1": "The core conversational features will have a free tier. We will also offer a premium plan for advanced features and unlimited speaking time.",
-    "q2": "When will it launch?",
-    "a2": "We are currently in beta testing. Join the waitlist to get early access!",
-    "q3": "Which languages are supported?",
-    "a3": "Fluento AI focuses on teaching English, but you can converse and receive explanations in Hindi, Bengali, Marathi, Bhojpuri, and many other regional Indian languages."
+    "title": "अक्सर पूछल जाय वाला प्रश्न",
+    "description": "की अहाँक कोनो प्रश्न अछि? हमर लग उत्तर अछि।",
+    "q1": "की Fluento AI मुफ़्त अछि?",
+    "a1": "मुख्य संवादी सुविधा मे एकटा मुफ़्त टियर रहत। हम उन्नत सुविधा आ असीमित बाजब समयक लेल एकटा प्रीमियम योजना सेहो पेश करब।",
+    "q2": "ई कहिया लॉन्च होएत?",
+    "a2": "हम वर्तमान मे बीटा परीक्षण मे छी। अर्ली एक्सेस पबबाक लेल प्रतीक्षा सूची मे शामिल होउ!",
+    "q3": "कोन भाषाक समर्थन अछि?",
+    "a3": "Fluento AI अंग्रेजी पढेबा पर केंद्रित अछि, मुदा अहाँ हिंदी, बंगाली, मराठी, भोजपुरी आ कई अन्य क्षेत्रीय भारतीय भाषा मे गपशप कए सकैत छी आ स्पष्टीकरण प्राप्त कए सकैत छी।"
   }
 }
